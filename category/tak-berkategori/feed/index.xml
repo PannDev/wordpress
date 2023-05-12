@@ -12,7 +12,7 @@
 	<atom:link href="https://panndev.me/wordpress/category/tak-berkategori/feed/" rel="self" type="application/rss+xml" />
 	<link>https://panndev.me/wordpress</link>
 	<description></description>
-	<lastBuildDate>Tue, 09 May 2023 10:36:41 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 11 May 2023 14:53:34 +0000</lastBuildDate>
 	<language>id</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,11 +21,11 @@
 	<generator>https://wordpress.org/?v=6.2</generator>
 	<item>
 		<title>Halo dunia!</title>
-		<link>https://panndev.me/wordpress/2023/05/09/halo-dunia/</link>
-					<comments>https://panndev.me/wordpress/2023/05/09/halo-dunia/#comments</comments>
+		<link>https://panndev.me/wordpress/2023/05/11/halo-dunia/</link>
+					<comments>https://panndev.me/wordpress/2023/05/11/halo-dunia/#comments</comments>
 		
 		<dc:creator><![CDATA[PannDev]]></dc:creator>
-		<pubDate>Tue, 09 May 2023 10:36:41 +0000</pubDate>
+		<pubDate>Thu, 11 May 2023 14:11:15 +0000</pubDate>
 				<category><![CDATA[Tak Berkategori]]></category>
 		<guid isPermaLink="false">https://panndev.me/wordpress/?p=1</guid>
 
@@ -34,7 +34,7 @@
 <p>Selamt datang di WordPress. Ini adalah pos pertama Anda. Sunting atau hapus, kemudian mulai menulis!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://panndev.me/wordpress/2023/05/09/halo-dunia/feed/</wfw:commentRss>
+					<wfw:commentRss>https://panndev.me/wordpress/2023/05/11/halo-dunia/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
